@@ -406,13 +406,13 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Contact
+<!-- ## 📞 Contact
 
 For questions, feature requests, or support, please open an issue on GitHub or contact the maintainers.
 
 ---
 
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by [Your Name/Organization] -->
 
 
 
@@ -461,9 +461,9 @@ Made with ❤️ by [Your Name/Organization]
 ## /api/roadmap/generate
 
 persona_type: analytical
-  duration_months: 3,
-  user_id: user123
+  duration_months: 1/2/3/6/12,
+  user_id: get from user information from the database(user0012)
 
-## Time  response_time_ms: 7517.58
+## Time  response_time_ms: 7517.58 ms
 
-## response_time_ms: 13812.98 for 3 days
+<!-- ## response_time_ms: 13812.98 for 3 days -->
