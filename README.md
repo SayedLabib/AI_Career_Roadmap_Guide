@@ -369,9 +369,9 @@ pytest
    - Create a new branch for your feature
    - Submit a pull request with your changes
 
-## 📄 License
+<!-- ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. -->
 
 ## 🙏 Acknowledgements
 
